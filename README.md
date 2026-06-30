@@ -2,7 +2,7 @@
   <br>
   <samp>
     
-    I'm a Information and communication technology Undergraduate Student from Sri lanka.
+    I'm a Information and communication technology Undergraduate Student from university of vavuniya.
 
 </samp>
 
